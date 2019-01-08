@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+
+#testfiles
+/playground.js
+/test.js
